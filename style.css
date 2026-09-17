@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+} 
+ 
+.profile form{
+    align-items: center;
+    width: 50%;
+    margin-left: 90px;
+}
+.login button{
+    border-radius: 24px;
+    width: 80px;
+    background-color:transparent;
+    border: transparent;
+
+}
+.dropdown-item2{
+    text-decoration: none;
+    color: black;
+}
+.dropdown-item img{
+    align-items: center;
+    height: 30px;
+    width: 30px;
+}
+.d-block{
+    width: 700px;
+    height: 650px;
+}
+.animation {
+    width: 100%;
+}
+
+.ani {
+    transition: 5s;
+}
+
+.ani:hover {
+    transform: translateX(1300px);
+}
+.heading p img{
+    height: 100px;
+}
+.heading{
+    margin-left: 100px;
+    margin-top: 200px;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn button{
+    width: 100px;
+    border-radius: 24px;
+    border-color: transparent;
+    background-color: transparent;   
+}
+.card{
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+}
+.card img{
+    height: 150px;
+    width: 250px;
+}
+.carousel-control-prev-icon{
+    filter: invert(1);
+}
+.carousel-control-next-icon {
+    filter: invert(1);
+}
+.button button{
+    border-radius: 24px;
+    background-color: tomato;
+    border: 0px;
+    width: 200px;
+    height: 50px;
+
+}
+
+.service{
+    display: flex;
+}
+.servicecard{
+    height: fit-content;
+    box-shadow: 13px 15px 13px 15px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    line-height: 2.5;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.location img{
+    height: 500px;
+    width: 250px;
+    justify-content: space-around;
+}
+.numeric{
+    display: flex;
+    justify-content: space-around;
+}
+.follow{
+    font-size: 30px;
+}
+
+
+
+
